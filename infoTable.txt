@@ -1,0 +1,3 @@
+Number not found
+Time:     0,100 ms
+Amount of numbers = 100
